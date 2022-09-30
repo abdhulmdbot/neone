@@ -8158,7 +8158,7 @@ let buttons = [
 ]
 let buttonMessage = {
 image: { url: anu.thumbnail },
-caption: `*┏━━━❬NIPUNA MD📌❭*
+caption: `*┏━━━❬𝙰𝙱𝙳𝙷𝚄𝙻 MD📌❭*
      
    *📥 YOUTUBE DOWNLODER* 
  
@@ -8172,10 +8172,10 @@ caption: `*┏━━━❬NIPUNA MD📌❭*
 
 *┃🔖Runtime :* ${runtime(process.uptime())}
  
-*┃BOT NAME : 📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 
+*┃BOT NAME : ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 ┗━━━━━━━━━❊`,
-footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 `,
+footer: `❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱`,
 buttons: buttons,
 headerType: 4,
 }
@@ -8194,7 +8194,7 @@ let buttons = [
 ]
 let buttonMessage = {
 image: { url: anu.thumbnail },
-caption: `*┏━━━❬NIPUNA MD📌❭*
+caption: `*┏━━━❬ 𝙰𝙱𝙳𝙷𝚄𝙻 MD📌❭*
      
    *📥 SONG DOWNLODER* 
  
@@ -8208,10 +8208,10 @@ caption: `*┏━━━❬NIPUNA MD📌❭*
 
 *┃🔖Runtime :* ${runtime(process.uptime())}
  
-*┃BOT NAME : 📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 
+*┃BOT NAME : ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 ┗━━━━━━━━━❊`,
-footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 `,
+footer: `❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱ `,
 buttons: buttons,
 headerType: 4,
 }
@@ -8226,7 +8226,7 @@ case 'ytdl': {
 let template = await generateWAMessageFromContent(m.chat, proto.Message.fromObject({
 listMessage :{
  title: `Hi ${pushname}`,
- description: `*┏━━━❬NIPUNA MD📌❭*
+ description: `*┏━━━❬ 𝙰𝙱𝙳𝙷𝚄𝙻 MD📌❭*
      
   📥 ADVANCE YOUTUBE DOWNLODER* 
 
@@ -8240,11 +8240,11 @@ listMessage :{
 
 *┃🔖Description : ${anu.description}
 
-*┃BOT NAME : 📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 
+*┃BOT NAME : ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 ┗━━━━━━━━━❊`,
  buttonText: "Menu",
- footerText: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 `,
+ footerText: `❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱`,
  listType: "SINGLE_SELECT",
  sections: [{
     "title": "MP4",
@@ -8377,7 +8377,7 @@ break
  ]
  let buttonMessage = {
  image: { url: anu.thumbnail },
- caption: `*┏━━━❬NIPUNA MD📌❭*
+ caption: `*┏━━━❬𝙰𝙱𝙳𝙷𝚄𝙻❭*
      
    📥 VIDEO DOWNLODER* 
  
@@ -8391,10 +8391,10 @@ break
 
 *┃🔖Runtime :* ${runtime(process.uptime())}
  
-*┃BOT NAME :* *📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 *
+*┃BOT NAME :* *❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱*
 
 ┗━━━━━━━━━❊`,
- footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 `,
+ footer: `❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱`,
  buttons: buttons,
  headerType: 4,
  }
@@ -9028,8 +9028,8 @@ case 'alive': {
     {buttonId: `ping`, buttonText: {displayText: 'SPEED'}, type: 1}
     ]
     let buttonMessage = {
-    image: { url: `https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg` },
-    caption: `╔═════❬ 📶𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚📶❭
+    image: { url: `https://i.ibb.co/gdXpM3v/IMG-20220928-WA0006.jpg` },
+    caption: `╔═════❬ ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱ ❭
 
 
     │「 *Hi* ✌ 」
@@ -9044,12 +9044,12 @@ case 'alive': {
     
     ➤🛡️ 𝐕𝐞𝐫𝐬𝐢𝐨𝐧  : 1.2
     
-    ➤🛡️ 𝐁𝐨𝐭 𝐧𝐚𝐦𝐞 : 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚
+    ➤🛡️ 𝐁𝐨𝐭 𝐧𝐚𝐦𝐞 : ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
     
     ➤🛡️ 𝐎𝐰𝐞𝐧𝐞𝐫 𝐍𝐨:${global.owner} 
       
   *╚═══❖•ೋ° °ೋ•❖═══╝*`,
-    footer: `📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶`,
+    footer: `❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱`,
     buttons: buttons,
     headerType: 4,
     }
@@ -9063,36 +9063,36 @@ case 'menu': {
     {buttonId: `ping`, buttonText: {displayText: 'PING'}, type: 1}
     ]
     let buttonMessage = {
-    image: { url: `https://i.ibb.co/0mDLtyr/f2337149532299-58b7611d91faf.jpg` },
+    image: { url: `https://i.ibb.co/gdXpM3v/IMG-20220928-WA0006.jpg` },
     caption: `╔═══════📛「 OWNER 」	
-    ╠🛡️  ${prefix}self
-    ╠🛡️  ${prefix}public
-    ╠🛡️  ${prefix}antitag
-    ╠🛡️  ${prefix}rentbot [add/del]
-    ╠🛡️  ${prefix}rentlist
-    ╠🛡️  ${prefix}ban [add/del]
-    ╠🛡️  ${prefix}banchat [on/off]
-    ╠🛡️  ${prefix}join [link]
-    ╠🛡️  ${prefix}leavegc
-    ╠🛡️  ${prefix}setbio
-    ╠🛡️  ${prefix}bcgroup [text]
-    ╠🛡️  ${prefix}bcall [text]
-    ╠🛡️  ${prefix}bcimage [image]
-    ╠🛡️  ${prefix}bcvideo [video]
-    ╠🛡️  ${prefix}bcaudio [audio]
-    ╠🛡️  ${prefix}bcloc [text]
-    ╠🛡️  ${prefix}setppbot [image]
-    ╠🛡️  ${prefix}setexif
-    ╠🛡️  ${prefix}block [tag/number]
-    ╠🛡️  ${prefix}unblock [tag/number]
-    ╠🛡️  ${prefix}coowner [add/del]
-    ╠🛡️             
-    ╚═══❖📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶❯
+    ╠💞  ${prefix}self
+    ╠💞  ${prefix}public
+    ╠💞  ${prefix}antitag
+    ╠💞  ${prefix}rentbot [add/del]
+    ╠💞  ${prefix}rentlist
+    ╠💞  ${prefix}ban [add/del]
+    ╠💞  ${prefix}banchat [on/off]
+    ╠💞  ${prefix}join [link]
+    ╠💞  ${prefix}leavegc
+    ╠💞  ${prefix}setbio
+    ╠💞  ${prefix}bcgroup [text]
+    ╠💞  ${prefix}bcall [text]
+    ╠💞  ${prefix}bcimage [image]
+    ╠💞  ${prefix}bcvideo [video]
+    ╠💞  ${prefix}bcaudio [audio]
+    ╠💞  ${prefix}bcloc [text]
+    ╠💞  ${prefix}setppbot [image]
+    ╠💞  ${prefix}setexif
+    ╠💞  ${prefix}block [tag/number]
+    ╠💞  ${prefix}unblock [tag/number]
+    ╠💞  ${prefix}coowner [add/del]
+    ╠💞             
+    ╚═══❖❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️
     ╠═══════📛「 GROUP 」	        
     ╠🛡️ ${prefix}grousetting
@@ -9131,12 +9131,12 @@ case 'menu': {
     ╠🛡️ ${prefix}checkvote
     ╠🛡️ ${prefix}delvote
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖ ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱ ═════*
     ╠🛡️
     ╠═══════📛「 MAKER 」
     ╠🛡️ ${prefix}candy
@@ -9242,12 +9242,12 @@ case 'menu': {
     ╠🛡️  ${prefix}watercolor
     ╠🛡️  ${prefix}classic
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════ ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️
     ╠═════📛「 DOWNLOAD 」	
     ╠🛡️ ${prefix}instagram [url]
@@ -9272,18 +9272,17 @@ case 'menu': {
     ╠🛡️ ${prefix}wamod
     ╠🛡️ ${prefix}wa
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱ ═════*
     ╠🛡️
     ╠═══════📛「 SEARCH 」	
     ╠🛡️ ${prefix}play [query]
     ╠🛡️ ${prefix}song [query]
     ╠🛡️ ${prefix}yts [query]
-    ╠🛡️ ${prefix}lyrics [query]
-    ╠🛡️ ${prefix}google [query]
+    ╠🛡️ ${prefix}lyr
     ╠🛡️ ${prefix}playstore [query]
     ╠🛡️ ${prefix}gimage [query]
     ╠🛡️ ${prefix}pinterest [query]
@@ -9306,12 +9305,13 @@ case 'menu': {
     ╠🛡️ ${prefix}mcserver [ip|port]
     ╠🛡️ ${prefix}drakor [query]
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+
+   *╔═════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️
     ╠═══════📛「 CONVERT 」
     ╠🛡️ ${prefix}toimage [reply stick]
@@ -9343,12 +9343,12 @@ case 'menu': {
     ╠🛡️ ${prefix}slow [reply aud]
     ╠🛡️ ${prefix}squirrel [reply aud]
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️
     ╠═══════📛「 IMG EFFECT 」
     ╠🛡️ ${prefix}wanted
@@ -9366,11 +9366,11 @@ case 'menu': {
     ╠🛡️ ${prefix}deleteeffect
     ╠🛡️ ${prefix}pixelate
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️
     ╠═══════📛「 RANDOM IMG 」
     ╠🛡️ ${prefix}coffee
@@ -9386,12 +9386,12 @@ case 'menu': {
     ╠🛡️ ${prefix}animewall [query]
     ╠🛡️  ${prefix}animewall2 [query]
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖ ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️
     ╠═══════📛「 EMOTE 」
     ╠🛡️ ${prefix}instagramemoji
@@ -9407,12 +9407,12 @@ case 'menu': {
     ╠🛡️ ${prefix}pediaemoji
     ╠🛡️ ${prefix}microsoftemoji
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️
     ╠═══════📛「 ANIME 」
     ╠🛡️ ${prefix}naruto
@@ -9464,12 +9464,12 @@ case 'menu': {
     ╠🛡️ ${prefix}smug2
     ╠🛡️ ${prefix}couplepp
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️ 
     ╠══════📛「 STICKER 」
     ╠🛡️  ${prefix}patrick
@@ -9480,12 +9480,12 @@ case 'menu': {
     ╠🛡️  ${prefix}doge
     ╠🛡️  ${prefix}lovesticker
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️
     ╠════📛「 ANIME STICKER 」
     ╠🛡️ ${prefix}loli
@@ -9518,12 +9518,12 @@ case 'menu': {
     ╠🛡️ ${prefix}neko
     ╠🛡️ ${prefix}gura
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖ ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️ 
     ╠═══════📛「 NSFW 」
     ╠🛡️ ${prefix}hentaivideo
@@ -9552,12 +9552,12 @@ case 'menu': {
     ╠🛡️ ${prefix}hneko
     ╠🛡️ ${prefix}nwaifu
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════ ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️
     ╠═══════📛「 FUN 」
     ╠🛡️  ${prefix}how [text
@@ -9625,12 +9625,12 @@ case 'menu': {
     ╠🛡️  ${prefix}fuckgirl
     ╠🛡️  ${prefix}plygirl
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️
     ╠══════📛「 SOUND 」
     ╠🛡️  ${prefix}sound1
@@ -9794,12 +9794,12 @@ case 'menu': {
     ╠🛡️ ${prefix}sound160
     ╠🛡️ ${prefix}sound161
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠══════📛「 GAME 」
     ╠🛡️ ${prefix}truth
     ╠🛡️ ${prefix}dare
@@ -9809,12 +9809,12 @@ case 'menu': {
     ╠🛡️ ${prefix}math [mode]
     ╠🛡️ ${prefix}suitpvp [tag]
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️
     ╠══📛「 ANONYMOUS CHAT 」
     ╠🛡️ ${prefix}anonymous
@@ -9823,135 +9823,134 @@ case 'menu': {
     ╠🛡️ ${prefix}leave
     ╠══════📛「 TOOL 」
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
      
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
     ╠🛡️
     ╠🛡️ ${prefix}translate [text]
     ╠🛡️ ${prefix}fliptext [text]
     ╠🛡️ ${prefix}toletter [number]
     ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ╚═══❖  ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
+   *╔═════ ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱ ═════*
     ╠🛡️
     ╠══════📛「 DATABASE 」
     ╠🛡️ ${prefix}setcmd
     ╠🛡️ ${prefix}listcmd
-    ╠🛡️ ${prefix}delcmd
-    ╠🛡️ ${prefix}lockcmd
-    ╠🛡️ ${prefix}addmsg
-    ╠🛡️ ${prefix}listmsg
-    ╠🛡️ ${prefix}getmsg
-    ╠🛡️ ${prefix}delmsg
-    ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+    ${prefix}delcmd
+    ╠💞 ${prefix}lockcmd
+    ╠💞 ${prefix}addmsg ${prefix}listmsg
+    ╠💞 ${prefix}getmsg
+    ╠💞 ${prefix}delmsg
+    ╠💞             
+    ╚═══❖ ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
-    ╠🛡️
-    ╠══════📛「 lNDO 」
-    ╠🛡️ ${prefix}darkjoke
-    ╠🛡️ ${prefix}quotes
-    ╠🛡️ ${prefix}animequotes
-    ╠🛡️ ${prefix}jalantikus-meme
-    ╠🛡️ ${prefix}merdeka-news 
-    ╠🛡️ ${prefix}kontan-news 
-    ╠🛡️ ${prefix}cnbc-news 
-    ╠🛡️ ${prefix}tribun-news 
-    ╠🛡️ ${prefix}indozone-news 
-    ╠🛡️ ${prefix}kompas-news 
-    ╠🛡️ ${prefix}detik-news 
-    ╠🛡️ ${prefix}daily-news 
-    ╠🛡️ ${prefix}inews-news 
-    ╠🛡️ ${prefix}okezone-news 
-    ╠🛡️ ${prefix}sindo-news 
-    ╠🛡️ ${prefix}tempo-news 
-    ╠🛡️ ${prefix}antara-news 
-    ╠🛡️ ${prefix}cnn-news 
-    ╠🛡️ ${prefix}fajar-news 
-    ╠🛡️ ${prefix}cinemaschedule
-    ╠🛡️ ${prefix}wiki
-    ╠🛡️ ${prefix}covidindo
-    ╠🛡️ ${prefix}earthquake
-    ╠🛡️ ${prefix}tvschedule 
-    ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+   *╔═════ ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱ ═════*
+    ╠💞
+    ╠══════💝「 lNDO 」
+    ╠💞 ${prefix}darkjoke
+    ╠💞 ${prefix}quotes
+    ╠💞 ${prefix}animequotes
+    ╠💞 ${prefix}jalantikus-meme
+    ╠💞 ${prefix}merdeka-news 
+    ╠💞 ${prefix}kontan-news 
+    ╠💞 ${prefix}cnbc-news 
+    ╠💞 ${prefix}tribun-news 
+    ╠💞 ${prefix}indozone-news 
+    ╠💞 ${prefix}kompas-news 
+    ╠💞 ${prefix}detik-news 
+    ╠💞 ${prefix}daily-news 
+    ╠💞 ${prefix}inews-news 
+    ╠💞 ${prefix}okezone-news 
+    ╠💞 ${prefix}sindo-news 
+    ╠💞 ${prefix}tempo-news 
+    ╠💞 ${prefix}antara-news 
+    ╠💞 ${prefix}cnn-news 
+    ╠💞 ${prefix}fajar-news 
+    ╠💞 ${prefix}cinemaschedule
+    ╠💞 ${prefix}wiki
+    ╠💞 ${prefix}covidindo
+    ╠💞 ${prefix}earthquake
+    ╠💞 ${prefix}tvschedule 
+    ╠💞             
+    ╚═══❖❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
-    ╠🛡️
-    ╠══════📛「 INDO HSCOPE 」
-    ╠🛡️ ${prefix}nomorhoki
-    ╠🛡️ ${prefix}artimimpi 
-    ╠🛡️ ${prefix}artinama 
-    ╠🛡️ ${prefix}ramaljodoh 
-    ╠🛡️ ${prefix}ramaljodohbali 
-    ╠🛡️ ${prefix}suamiistri 
-    ╠🛡️ ${prefix}ramalcinta 
-    ╠🛡️ ${prefix}cocoknama 
-    ╠🛡️ ${prefix}pasangan 
-    ╠🛡️ ${prefix}jadiannikah 
-    ╠🛡️ ${prefix}sifatusaha 
-    ╠🛡️ ${prefix}rezeki 
-    ╠🛡️ ${prefix}pekerjaan 
-    ╠🛡️ ${prefix}nasib 
-    ╠🛡️ ${prefix}penyakit 
-    ╠🛡️ ${prefix}tarot 
-    ╠🛡️ ${prefix}fengshui 
-    ╠🛡️ ${prefix}haribaik 
-    ╠🛡️ ${prefix}harisangar 
-    ╠🛡️ ${prefix}harisial
-    ╠🛡️ ${prefix}nagahari
-    ╠🛡️ ${prefix}arahrezeki
-    ╠🛡️ ${prefix}peruntungan 
-    ╠🛡️ ${prefix}weton 
-    ╠🛡️ ${prefix}karakter
-    ╠🛡️ ${prefix}keberuntungan
-    ╠🛡️ ${prefix}memancing
-    ╠🛡️ ${prefix}masasubur
-    ╠🛡️ ${prefix}zodiak
-    ╠🛡️ ${prefix}shio
-    ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+   *╔═════ ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱═════*
+    ╠💞
+    ╠══════💝「 INDO HSCOPE 」
+    ╠💞 ${prefix}nomorhoki
+    ╠💞 ${prefix}artimimpi 
+    ╠💞 ${prefix}artinama 
+    ╠💞 ${prefix}ramaljodoh 
+    ╠💞 ${prefix}ramaljodohbali 
+    ╠💞 ${prefix}suamiistri 
+    ╠💞 ${prefix}ramalcinta 
+    ╠💞 ${prefix}cocoknama 
+    ╠💞 ${prefix}pasangan 
+    ╠💞 ${prefix}jadiannikah 
+    ╠💞 ${prefix}sifatusaha 
+    ╠💞 ${prefix}rezeki 
+    ╠💞 ${prefix}pekerjaan 
+    ╠💞 ${prefix}nasib 
+    ╠💞 ${prefix}penyakit 
+    ╠💞 ${prefix}tarot 
+    ╠💞 ${prefix}fengshui 
+    ╠💞 ${prefix}haribaik 
+    ╠💞 ${prefix}harisangar 
+    ╠💞 ${prefix}harisial
+    ╠💞 ${prefix}nagahari
+    ╠💞 ${prefix}arahrezeki
+    ╠💞 ${prefix}peruntungan 
+    ╠💞 ${prefix}weton 
+    ╠💞 ${prefix}karakter
+    ╠💞 ${prefix}keberuntungan
+    ╠💞 ${prefix}memancing
+    ╠💞 ${prefix}masasubur
+    ╠💞 ${prefix}zodiak
+    ╠💞 ${prefix}shio
+    ╠💞             
+    ╚═══❖ ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
  
 
 
 
 
-   *╔═════ 👽 Nipuna ═════*
-    ╠🛡️
-    ╠══════📛「 OTHER 」
-    ╠🛡️  ${prefix}afk
-    ╠🛡️  ${prefix}readmore [text]
-    ╠🛡️  ${prefix}toviewonce
-    ╠🛡️  ${prefix}chatinfo
-    ╠🛡️  ${prefix}alive
-    ╠🛡️  ${prefix}script
-    ╠🛡️  ${prefix}speedtest
-    ╠🛡️  ${prefix}ping
-    ╠🛡️  ${prefix}owner
-    ╠🛡️  ${prefix}menu
-    ╠🛡️  ${prefix}delete
-    ╠🛡️  ${prefix}chatinfo
-    ╠🛡️  ${prefix}quoted
-    ╠🛡️  ${prefix}listpc
-    ╠🛡️  ${prefix}listgc
-    ╠🛡️  ${prefix}donate
-    ╠🛡️  ${prefix}request
-    ╠🛡️ ${prefix}report [bug]
-    ╠🛡️             
-    ╚═══❖  📶 𝘽𝙡𝙪𝙚 𝙇𝙞𝙤𝙣𝙚 📶 ❯
+   *╔═════ ❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱ ═════*
+    ╠💞
+    ╠══════💞「 OTHER 」
+    ╠💞  ${prefix}afk
+    ╠💞  ${prefix}readmore [text]
+    ╠💞  ${prefix}toviewonce
+    ╠💞  ${prefix}chatinfo
+    ╠💞  ${prefix}alive
+    ╠💞  ${prefix}script
+    ╠💞  ${prefix}speedtest
+    ╠💞  ${prefix}ping
+    ╠💞  ${prefix}owner
+    ╠💞  ${prefix}menu
+    ╠💞  ${prefix}delete
+    ╠💞  ${prefix}chatinfo
+    ╠💞  ${prefix}quoted
+    ╠💞  ${prefix}listpc
+    ╠💞  ${prefix}listgc
+    ╠💞  ${prefix}donate
+    ╠💞  ${prefix}request
+    ╠💞 ${prefix}report [bug]
+    ╠💞             
+    ╚═══❖❰❰⦁ 𝛫𝛯𝘕𝘡𝘖 ⦁❱❱
 `,
     footer: `${botname}`,
     buttons: buttons,
